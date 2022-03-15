@@ -21,3 +21,35 @@ I'm a self-educated web developer. I'm very interested in coding and I can spend
 * C# (basic)
 * Figma (for web developers)
 * BEM(Block Element Modifier)
+
+```
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+  
+  let n = 0;
+  if(dadYearsOld/sonYearsOld > 2)
+    {
+      while(dadYearsOld !== 2 * sonYearsOld)
+        {
+          dadYearsOld++;
+          sonYearsOld++;
+          n++;
+        }
+      return n;
+    }
+  else if(dadYearsOld/sonYearsOld === 2)
+    {
+      return 0;
+    }
+  else
+    {
+      while(dadYearsOld !== 2 * sonYearsOld)
+        {
+          dadYearsOld--;
+          sonYearsOld--;
+          n++;
+        }
+      return n;
+    }
+  
+}
+```
