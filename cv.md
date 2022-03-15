@@ -20,3 +20,4 @@ I'm a self-educated web developer. I'm very interested in coding and I can spend
 * Git, Github
 * C# (basic)
 * Figma (for web developers)
+* BEM(Block Element Modifier)
