@@ -71,3 +71,10 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
     * **Freecodecamp:** [HTML and CSS](https://www.freecodecamp.org/news/html-css-11-hour-course/)
     * **RS-School:** [JS/FE Pre-School 2022](https://app.rs.school/certificate/6kwrms24)
     * **Algoritmika:** [Front-end course](https://bootcamp.algoritmika.org/) (in progress)
+
+## Languages
+
+* Russian
+* Azerbaijani
+* Turkish
+* English (A2)
