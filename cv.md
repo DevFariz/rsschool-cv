@@ -62,3 +62,12 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
   
 }
 ```
+
+## Education
+
+* Azerbaijan State Oil and University
+    * information Security
+* Courses
+    * **Freecodecamp:** [HTML and CSS](https://www.freecodecamp.org/news/html-css-11-hour-course/)
+    * **RS-School:** [JS/FE Pre-School 2022](https://app.rs.school/certificate/6kwrms24)
+    * **Algoritmika:** [Front-end course](https://bootcamp.algoritmika.org/) (in progress)
